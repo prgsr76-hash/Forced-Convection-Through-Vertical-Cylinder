@@ -1,6 +1,7 @@
 clc;
 clear;
 close all;
+%Initialisation of Code
 %% Given Data
 V=36;%in volts
 I=0.22;%in ampere
